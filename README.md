@@ -17,10 +17,10 @@ This repository contains Jupyter notebook and scripts to process usage data, gen
 ## Example Visualizations
 
 ### ChatGPT usage
-![Usage Over Time](2025chatgptconvo.png)
+![Usage Over Time](2025chatgptconvo.jpeg)
 
 ### ChatGPT vs Claude Usage Over Time
-![Daily Trends](convocomparison.png)
+![Daily Trends](convocomparison.jpeg)
 
 ---
 
